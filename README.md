@@ -1,13 +1,16 @@
 ### Hi there 👋
-##My name is Azucena Mejia, i´m from Colombia.
-
-<!--
-**AzucenaMejia/AzucenaMejia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Azucena Mejia, i´m from Colombia.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on personal and team projects.
--  :notebook:  I learn autonomously from home
-- 🌱 I’m currently learning fullstack development
-- ⚡ Fun fact: I love to read, to paint and to sing
--->
+### - 🔭 I’m currently working on personal and team projects.
+### -  :notebook:  I learn autonomously from home
+### - 🌱 I’m currently learning fullstack development
+### - ⚡ Fun fact: I love to read, to paint and to sing
+
+
+
+<!--
+**AzucenaMejia/AzucenaMejia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
+
+
