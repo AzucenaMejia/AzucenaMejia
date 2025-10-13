@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 ### -  :notebook:  I learn autonomously from home
 ### - 🌱 I’m currently learning fullstack development
 ### - ⚡ Fun fact: I love to read, to paint and to sing
-##Code is Love :heart:
+## :heart: Code is Love :heart:
 
 
 
