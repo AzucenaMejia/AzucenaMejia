@@ -2,10 +2,8 @@
   <img src="banner.png" alt="Banner mini" width="600">
 </p
 
- 
-# Hola 👋, soy Blanca, desarrolladora en formación con enfoque en desarrollo web y aplicaciones móviles.
-
-## Actualmente estoy fortaleciendo mis habilidades en desarrollo, repasando y aprendiendo de forma autónoma con los recursos disponibles en la web.
+## Hola 👋, soy Blanca, desarrolladora en formación con enfoque en desarrollo web y aplicaciones móviles.  
+### Actualmente estoy fortaleciendo mis habilidades en desarrollo, repasando y aprendiendo de forma autónoma con los recursos disponibles en la web.
 
 
 ## Sobre mí 💻🚀:
