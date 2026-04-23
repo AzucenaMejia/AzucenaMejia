@@ -22,7 +22,7 @@ En 2025, completé la etapa lectiva de la Tecnología en Análisis y Desarrollo 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 
-  ## 📊 Herramientas que mejorado con mis aprendizaje y que estoy adquiriendo: 
+  ## 📊 Herramientas que uso: 
 
 | Categoría   | Tecnología        |
 |------------|-------------------|
