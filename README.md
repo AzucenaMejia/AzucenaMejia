@@ -2,9 +2,9 @@
   <img src="banner.png" alt="Banner mini" width="600">
 </p
  
-# Hi there 👋
+# Hola 👋, soy Blanca, desarrolladora en formación con enfoque en desarrollo web y aplicaciones móviles.
 
-### Actualmente estoy fortaleciendo mis habilidades en desarrollo, repasando y aprendiendo de forma autónoma con los recursos disponibles en la web.
+## Actualmente estoy fortaleciendo mis habilidades en desarrollo, repasando y aprendiendo de forma autónoma con los recursos disponibles en la web.
 
 
 ## Sobre mí 💻🚀:
@@ -22,6 +22,15 @@ En 2025, completé la etapa lectiva de la Tecnología en Análisis y Desarrollo 
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+
+  ## 📊 Herramientas que mejorado con mis aprendizaje y que estoy adquiriendo: 
+
+| Categoría   | Tecnología        |
+|------------|-------------------|
+| Frontend   | HTML, CSS, JS |
+| Backend    | |
+| Diseño     | Figma |
+| Organizativa    | Notion, Trello |
 
 
 ## 💻 Proyectos a destacar:
