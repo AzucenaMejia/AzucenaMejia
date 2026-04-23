@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="banner.png" alt="Banner mini" width="600">
+  <img width="2000" height="600" alt="banner jpg" src="https://github.com/user-attachments/assets/dd28bf21-427e-4edc-bb9f-99d47c939593" />
 </p>
 
 ## 🌟 Hola 👋
