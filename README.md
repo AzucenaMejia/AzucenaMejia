@@ -48,7 +48,8 @@ En 2025, completé la etapa lectiva de la Tecnología en Análisis y Desarrollo 
 
 ## 🌐 Redes de contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/blanca-azucena/)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blanca-azucena/)
+- [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AzucenaMejia)
 
  
  
