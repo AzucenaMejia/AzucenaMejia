@@ -1,6 +1,7 @@
 <p align="center">
   <img src="banner.png" alt="Banner mini" width="600">
 </p
+
  
 # Hola 👋, soy Blanca, desarrolladora en formación con enfoque en desarrollo web y aplicaciones móviles.
 
