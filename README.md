@@ -17,9 +17,6 @@ En 2022, obtuve el Diplomado en Desarrollo Web y Móvil de la Misión TIC.
 En 2025, completé la etapa lectiva de la Tecnología en Análisis y Desarrollo de Software (ADSO), con énfasis en programación y análisis de sistemas. Aunque no realicé la etapa práctica, adquirí buenas habilidades en el entorno educativo del SENA en modalidad virtual.
 
 ---
-
-## 🛠 Habilidades
-
 ## 🛠 Habilidades
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
