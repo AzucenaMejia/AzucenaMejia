@@ -3,10 +3,7 @@
   <img width="2000" height="600" alt="banner jpg" src="https://github.com/user-attachments/assets/dd28bf21-427e-4edc-bb9f-99d47c939593" />
 </p>
 
-## 🌟 Hola 👋
-
-Soy Blanca, desarrolladora en formación con enfoque en desarrollo web y aplicaciones móviles.  
-Actualmente estoy fortaleciendo mis habilidades en desarrollo, repasando y aprendiendo de forma autónoma con los recursos disponibles en la web.
+## Actualmente estoy fortaleciendo mis habilidades en desarrollo, repasando y aprendiendo de forma autónoma con los recursos disponibles en la web.
 
 ---
 
